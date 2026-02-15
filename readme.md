@@ -26,7 +26,7 @@ platform.
 ## Development tools
 
 * [SmallerC](https://github.com/alexfru/SmallerC.git) ⭐ 1,546 | 🐛 4 | 🌐 C | 📅 2024-12-22 - Portable self-hosting C compiler capable of producing executables for a number of platforms, including real and protected mode DOS programs, by Alexei A. Frounze.
-* [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) ⭐ 1,160 | 🐛 276 | 🌐 C | 📅 2026-02-14 - GitHub fork which is actively maintained and is
+* [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) ⭐ 1,160 | 🐛 276 | 🌐 C | 📅 2026-02-15 - GitHub fork which is actively maintained and is
   ported to 64-bit Windows and Linux.
 * [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2023-06-16 - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
 * [bcc - Bruce's C Compiler](https://gitlab.com/FreeDOS/devel/bcc) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
@@ -52,7 +52,7 @@ platform.
 ### Scripting languages and interpreters for DOS
 
 * [DOjS](https://github.com/SuperIlu/DOjS) ⭐ 941 | 🐛 15 | 🌐 C | 📅 2025-11-22 - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
-* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 21,463 | 🐛 1,848 | 🌐 C | 📅 2026-02-12.
+* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 21,464 | 🐛 1,849 | 🌐 C | 📅 2026-02-14.
 * [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
 * [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 * [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
@@ -200,7 +200,7 @@ platform.
 
 List of all homebrew DOS games: <http://www.doshaven.eu>
 
-* [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,479 | 🐛 155 | 🌐 C | 📅 2026-02-13 - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+* [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,480 | 🐛 155 | 🌐 C | 📅 2026-02-13 - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 * [Floppy Bird](https://github.com/icebreaker/floppybird) ⭐ 934 | 🐛 3 | 🌐 Assembly | 📅 2020-04-01 - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
 * [DOS Defender](https://github.com/skeeto/dosdefender-ld31) ⭐ 139 | 🐛 2 | 🌐 C | 📅 2023-09-11 - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
 * [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) ⭐ 57 | 🐛 4 | 🌐 C++ | 📅 2025-08-25 - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
@@ -231,8 +231,8 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 
 #### Commercial games with published source code
 
-* [Doom](https://github.com/id-Software/DOOM) ⭐ 18,052 | 🐛 12 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
-* [Quake](https://github.com/id-Software/Quake) ⭐ 5,641 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
+* [Doom](https://github.com/id-Software/DOOM) ⭐ 18,056 | 🐛 12 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+* [Quake](https://github.com/id-Software/Quake) ⭐ 5,644 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
   * [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,450 | 🐛 1 | 📅 2012-02-06 - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 * [Commander Keen in Keen Dreams](https://github.com/keendreams/keen) ⭐ 1,962 | 🐛 5 | 🌐 C | 📅 2014-11-12 - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
@@ -259,4 +259,4 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 ### Sound card emulators
 
 * [SBEMU](https://github.com/crazii/SBEMU) ⭐ 727 | 🐛 102 | 🌐 C | 📅 2024-10-20 - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
-* [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) ⭐ 127 | 🐛 35 | 🌐 C | 📅 2025-12-26 - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
+* [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) ⭐ 127 | 🐛 36 | 🌐 C | 📅 2025-12-26 - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
