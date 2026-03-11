@@ -2,7 +2,7 @@
 
 Family of operating systems for x86-based personal computers including IBM PC DOS and MS-DOS that were popular during the 1980s and early 1990s.
 
-[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos) ⭐ 593 | 🐛 1 | 📅 2025-08-25
+[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos) ⭐ 594 | 🐛 1 | 📅 2025-08-25
 
 A curated list of references for development of DOS applications and learning
 about the system itself. This includes list of compilers, tutorials, videos,
@@ -26,7 +26,7 @@ platform.
 ## Development tools
 
 * [SmallerC](https://github.com/alexfru/SmallerC.git) ⭐ 1,548 | 🐛 4 | 🌐 C | 📅 2024-12-22 - Portable self-hosting C compiler capable of producing executables for a number of platforms, including real and protected mode DOS programs, by Alexei A. Frounze.
-* [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) ⭐ 1,171 | 🐛 275 | 🌐 C | 📅 2026-03-10 - GitHub fork which is actively maintained and is
+* [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) ⭐ 1,171 | 🐛 275 | 🌐 C | 📅 2026-03-11 - GitHub fork which is actively maintained and is
   ported to 64-bit Windows and Linux.
 * [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2023-06-16 - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
 * [bcc - Bruce's C Compiler](https://gitlab.com/FreeDOS/devel/bcc) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
@@ -52,7 +52,7 @@ platform.
 ### Scripting languages and interpreters for DOS
 
 * [DOjS](https://github.com/SuperIlu/DOjS) ⭐ 945 | 🐛 15 | 🌐 C | 📅 2025-11-22 - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
-* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 21,522 | 🐛 1,848 | 🌐 C | 📅 2026-03-09.
+* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 21,526 | 🐛 1,842 | 🌐 C | 📅 2026-03-11.
 * [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
 * [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 * [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
@@ -188,7 +188,7 @@ platform.
 
 ### Open source DOS libraries
 
-* [Allegro 4.2](https://github.com/liballeg/allegro5/tree/v4-2-3-1) ⭐ 2,073 | 🐛 383 | 🌐 C | 📅 2026-02-23 - Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.
+* [Allegro 4.2](https://github.com/liballeg/allegro5/tree/v4-2-3-1) ⭐ 2,076 | 🐛 383 | 🌐 C | 📅 2026-02-23 - Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.
   * [Allegro 4.2.1 PDF documentation.](https://download.tuxfamily.org/allegro/allegro-manual/4.2.1/allegro-manual-4.2.1.en.pdf)
 * [LoveDOS](https://github.com/rxi/lovedos) ⚠️ Archived - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 * [DIGPAK sound drivers source code](https://github.com/jratcliff63367/digpak) ⭐ 35 | 🐛 2 | 🌐 Assembly | 📅 2021-11-23 - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
@@ -231,8 +231,8 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 
 #### Commercial games with published source code
 
-* [Doom](https://github.com/id-Software/DOOM) ⭐ 18,218 | 🐛 13 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
-* [Quake](https://github.com/id-Software/Quake) ⭐ 5,676 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
+* [Doom](https://github.com/id-Software/DOOM) ⭐ 18,227 | 🐛 13 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+* [Quake](https://github.com/id-Software/Quake) ⭐ 5,675 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
   * [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,463 | 🐛 1 | 📅 2012-02-06 - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 * [Commander Keen in Keen Dreams](https://github.com/keendreams/keen) ⭐ 1,962 | 🐛 5 | 🌐 C | 📅 2014-11-12 - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
